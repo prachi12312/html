@@ -1,0 +1,12 @@
+th{
+    border: 2px solid blueviolet;
+}
+td{
+     border: 2px solid red;
+}
+caption{
+    border: 2px solid green;
+}
+/*li{
+    border: 2px solid yellow;
+}
