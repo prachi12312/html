@@ -1,1 +1,1 @@
-alert("welcome to khushi ki first website")
+alert("welcome to prachi ki first website")
